@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+#answer-btns {
+    background: black;
+    color: gray;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    position: top;
+}
